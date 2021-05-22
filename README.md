@@ -17,7 +17,7 @@
   </b>
   </p>
   <p>
- :hammer_and_wrench: En plus des langages du web, je suis passionné d'informatique en général (<i>ex: Arduino, langage C, C++, Java, ...</i>)<br> et je cherche toujours à progresser et apprendre plus.
+ :hammer_and_wrench: En plus des langages web, je suis passionné d'informatique en général (<i>ex: Arduino, langage C, C++, Java, ...</i>)<br> et je cherche toujours à progresser et apprendre plus.
   </p>
   <p>
   :coffee: Si vous souhaitez me contacter, n'hésitez pas à me joindre sur <a href="https://www.linkedin.com/in/ClementBacquet/"><img src='https://img.shields.io/badge/-Cl%C3%A9ment%20Bacquet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/cl%C3%A9ment-bacquet/'/></a>
